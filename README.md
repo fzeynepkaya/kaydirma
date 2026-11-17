@@ -1,0 +1,2 @@
+# kaydirma
+ekran kaydırma
